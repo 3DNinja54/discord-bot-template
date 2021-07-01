@@ -1,0 +1,8 @@
+{
+	"OWNERS": [""],
+
+	"TOKEN": "",
+	"mongoDbUrl": "",
+	"wipeOnLeave": false,
+	"defaultCooldown": 0
+}
